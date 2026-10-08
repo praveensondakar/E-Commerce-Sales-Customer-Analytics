@@ -58,6 +58,7 @@ Used SQL to analyze:
 - Profitability
 
 ## Power BI Dashboard
+![Power BI Dashboard](powerbi_dashboard.png)
 
 Created an interactive dashboard containing:
 
